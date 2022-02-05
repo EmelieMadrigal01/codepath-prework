@@ -1,7 +1,7 @@
 ## Hello World
 
 ### App Description
-`TODO://` User clicks button and changes the color of text
+User clicks button and changes the color of text
 
 
 ### App Walk-though
